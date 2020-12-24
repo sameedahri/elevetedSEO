@@ -1,0 +1,33 @@
+1. Login Page
+
+2. Connect your GMB Page
+
+3. Dashboard 
+
+I want dashboard to have follwing options 
+
+• Upload Photos (Should be Geo-tagged)
+
+	Ps. When someone selects this option they should be asked either they want to click a picture
+	    or upload from gallery either way the image should be Geo-tagged & there should be an 
+	    option to add title, keywords & location manually for the photo
+
+• Reviews (A place where they can see & respond to reviews)
+
+	Ps. please see if we can have an option in reviews where they can send requests for reviews 
+	    for example if they did a job for someone they can send a request to them within the app
+	    to write a review on their GMB
+
+• Create/Update Posts
+
+• Insights (Where they can view insights of their locations)
+
+• Update their GMB profile details
+
+• Manage service area & business 
+
+• Editing Location Information
+
+• Push Notification For Review
+
+Please keep color theme blue. Name of application will be Elevated SEO. I will send you my logo.

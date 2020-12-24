@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "121258986030",
+    "firebase_url": "https://elevated-seo.firebaseio.com",
+    "project_id": "elevated-seo",
+    "storage_bucket": "elevated-seo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121258986030:android:60b473787c0be1803a2dbf",
+        "android_client_info": {
+          "package_name": "com.elevated.seo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121258986030-nka4gaveiba0nd6ne9vp4jsq19ggnnca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elevated.seo",
+            "certificate_hash": "1ad2a923eb0a0107ffb56cae641d427d9dde6b8a"
+          }
+        },
+        {
+          "client_id": "121258986030-7k5vthebq8h44t841mq2lcdj82lvo979.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEXbMelX4zFwOb1nBBl1rwyrLZC2Vw_8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121258986030-vojrmehopnj3iu3s0n183p69p1ekp9u6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "121258986030-s5e3rdbs7oi79pj1icdjl2kj8mi88464.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elevated.seo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
